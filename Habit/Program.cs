@@ -86,7 +86,7 @@ namespace Habit
                         break;
                     default:
                         // Display an error message.
-                        Console.WriteLine("Invalid choice. Please enter a number between 1 and 3.");
+                        Console.WriteLine("Invalid choice. Please enter a number between 1 and 5.");
                         Console.WriteLine("Press any key to continue...");
                         Console.ReadKey();
                         break;
